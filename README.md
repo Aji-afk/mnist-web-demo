@@ -7,7 +7,7 @@
 - 🎨 可在網頁上手寫數字
 - 🖌️ 可調整筆刷粗細與顏色
 - 🤖 即時數字辨識
-- ⚡ 使用 FastAPI + PyTorch 部署
+- ⚡ 使用 PyTorch 部署
 
 ## 專案結構
 >mnist-web-demo/
@@ -36,6 +36,7 @@ pip install -r requirements.txt
 python model_test.py
 
 ```
+
 
 
 
