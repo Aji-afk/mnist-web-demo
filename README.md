@@ -11,7 +11,8 @@
 
 ## 專案結構
 >mnist-web-demo/
->> README.md            # 專案說明 
+>> README.md            # 專案說明
+>> 
 >> requirements.txt     # 需要的套件 
 >> mnist_cnn.py         # 訓練程式 
 >> model_test.py        # 主程式 (Tkinter 畫布 + 推論) 
@@ -32,4 +33,5 @@ pip install -r requirements.txt
 python model_test.py
 
 ```
+
 
